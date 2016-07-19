@@ -1,0 +1,25 @@
+{"utrecht": {
+      "school1": {
+        "name": "Maximaal Taal",
+        "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2450.6015783845774!2d5.095405915473813!3d52.105182274640484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f0d08d5191f%3A0x1e6487a34dd9d9b2!2sThorbeckelaan+18%2C+3551+BR+Utrecht!5e0!3m2!1sen!2snl!4v1468842984949' width='100%' height='250' frameborder='0' style='border:0' allowfullscreen></iframe>"
+      },
+      "school2": {
+        "name": "LestBest",
+        "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3466.6595847302783!2d5.132848881970572!3d52.09249882840806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4d032ddad3%3A0x6fd14b707730eaf2!2sLest+Best!5e0!3m2!1sen!2snl!4v1468699075058' width='100%' height='250' frameborder='0' style='border:0' allowfullscreen></iframe>"
+      },
+      "school3": {
+        "name": "SIPI",
+        "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2449.8744582659892!2d5.123606016051755!3d52.11841297366431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f266996242d%3A0xbffeadb85e76557e!2sPahud+de+Mortangesdreef+65%2C+3562+AB+Utrecht!5e0!3m2!1sen!2snl!4v1468698928261' width='100%' height='250' frameborder='0' style='border:0' allowfullscreen></iframe>"
+      },
+    "school4": {
+      "name": "Babel",
+      "location": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2451.632897837121!2d5.124763216050947!3d52.08641227602296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c66f4faa0c5237%3A0x887e93c2b762ea0a!2sBabel+Taalcursussen+en+Communicatietrainingen!5e0!3m2!1sen!2snl!4v1468698543875' width='100%' height='250' frameborder='0' style='border:0' allowfullscreen></iframe>"
+    }
+    },
+    "amsterdam": {
+
+    },
+    "eindhoven": {
+
+    }
+}

@@ -18,9 +18,23 @@ Notes:	 Hand coded for Udemy.com
 	text-align: center;
 }
 
-#features img {
-	margin: 0 0 20px;
-}
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+	margin-bottom: 10px;
+}/*  for fullscreen youtube video*/
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}/*  for fullscreen youtube video*/
+
 
 #inputMessage {
 	margin-bottom: 15px;
@@ -29,8 +43,8 @@ Notes:	 Hand coded for Udemy.com
 footer {
 	background: #333;
 	color: #eee;
-	font-size: 11px;
-	padding: 20px;
+	font-size: 14px;
+	padding: 10px;
 }
 
 
@@ -94,16 +108,20 @@ ul.unstyled {
    Carousel
    -------------------------------------- */
 
-#myCarousel {
+#myCarousel img{
 	/*margin-top: 60px;*/
 }
 
 .carousel-caption {
 	font-size: 24px;
+
+
 }
 
 .carousel-caption h4 {
 	font-size: 32px;
+
+
 }
 
 #myCarousel .item { height: 400px; }
@@ -181,9 +199,20 @@ ul.unstyled {
 }
 ol.bigOlNumbers {
 	font-size: 30px;
+	margin-right: 20px;
 }
-ol.bigOlNumbers li{
-	margin: 0px 0px 0px 8px;
+#listNeedMargin {
+	margin-left: 28px;
+
+}
+
+
+
+/* --------------------------------------
+   watch
+   -------------------------------------- */
+#videoSection {
+	margin: auto;
 }
 
 /* --------------------------------------
@@ -200,6 +229,8 @@ ol.bigOlNumbers li{
 	.thumbnail .price sup {
 		font-size: 10px;
 	}
+
+
 
 }
 
@@ -246,5 +277,6 @@ ol.bigOlNumbers li{
 	#slide3 {
 		background: url('../../images/carousel_large_03.jpg') top center no-repeat;
 	}
+
 
 }
